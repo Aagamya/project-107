@@ -1,0 +1,31 @@
+body{
+background-color: lightcoral;
+}
+
+#footer{
+font-size: large;
+}
+
+.header_div{
+    background-color:darkred ;
+    color:rgb(120, 233, 233);
+}
+p{
+ font-size: 12px;
+ font-weight: bold;
+ color: deepskyblue;
+
+}
+button{
+margin-top: 35px;
+}
+.footer{
+position: fixed;
+bottom: 0;
+background-color: blue;
+color: azure;
+width: 100%;
+text-align: center;
+line-height: 3;
+opacity: 0.5;
+}
